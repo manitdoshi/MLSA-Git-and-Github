@@ -1,4 +1,4 @@
-# MLSA Git and Github
+# Git and Github
 Here are some useful links for you:
 - Install Git from [here](https://git-scm.com/downloads).
 - Get access to various premium softwares and education materials for absolutely free, [GitHub Student Developer Pack](https://education.github.com/students).
